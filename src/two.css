@@ -1,0 +1,46 @@
+.cont {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  .button:hover {
+    background-color: #45a049;
+  }
+  
+  .info {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  
+  .res {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 20px 0;
+  }
+  
+  .ebutton {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color:white;
+    color: black;
+  }
+  
+  .ebutton:hover {
+    background-color: #c81191;
+  }
+  
